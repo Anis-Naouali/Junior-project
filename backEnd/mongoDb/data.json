@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Flat bench press",
+        "description": "Flat benches put more emphasis on the lower pecs, while incline benches put more emphasis on the upper pec, clavicular head and deltoids.",
+        "categories": "chest",
+        "imageUrl": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-81548804/81548804.jpg"
+     },
+     {
+        "name": "Inclined press",
+        "description": "This workout is great for those who are looking to build strength, muscle mass and endurance in their chest and triceps",
+        "categories": "chest",
+        "imageUrl": "https://i.zoomtventertainment.com/story/Exercises_to_boost_chest_muscles.jpg?tr=w-1200,h-900"
+     },
+     {
+        "name": "Decline press",
+        "description": "The decline bench press targets your lower pectoral muscles. It's performed on a bench that's set to 15 to 30 degrees on a decline.",
+        "categories": "chest",
+        "imageUrl": "https://www.mensjournal.com/.image/t_share/MTk2MTM2MTcxNTM2MTMxMjE3/decline-dumbbell-press.jpg"
+     },
+     {
+        "name": "Cable flyes",
+        "description": "Cable flyes are one of the best exercises for improving shoulder stability. It's also important to ensure that all other muscles around the shoulder area are activated properly too.",
+        "categories": "chest",
+        "imageUrl": "https://images.livemint.com/img/2022/08/18/1200x900/Fitness_Chest_Fly_1660814237179_1660814250787_1660814250787.jpg"
+     },
+     {
+        "name": "Shoulder press machine",
+        "description": "Using the machine instead of the free weights helps you to isolate the deltoid muscles",
+        "categories": "shoulders",
+        "imageUrl": "https://www.hussle.com/blog/wp-content/uploads/2020/09/Shoulder-Press-Machine-1080x675.jpg"
+     },
+     {
+        "name": "Front raise",
+        "description": "Front dumbbell raises are a great way to build upper-body strength, improve shoulder mobility and stability, and prevent injury",
+        "categories": "shoulders",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/701/p-1-shoulder-hurts-so-damn-bad-when-you-lift-1515525842.jpg?crop=0.848xw:1xh;center,top&resize=1200:*"
+     },
+     {
+        "name": "Lateral raise",
+        "description": "Lateral raises add width and definition to your shoulder area if done consistently and correctly",
+        "categories": "shoulders",
+        "imageUrl": "https://www.businessinsider.in/thumb.cms?msid=96236784&width=1200&height=900"
+     }
+     ,{
+        "name": "Landmine Shoulder",
+        "description": "The landmine press can be extremely beneficial to help build more lean muscle mass and strength in the shoulders.",
+        "categories": "shoulders",
+        "imageUrl": "https://www.mensjournal.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM3MzM4OTYxNzk4NjYx/landmine_shoulder_press.jpg"
+     },{
+        "name": "Lat pulldown",
+        "description": "The lat pulldown works the latissimus dorsi, the largest muscle in the back, as well as your biceps, rear delts, rhomboids and traps.",
+        "categories": "back",
+        "imageUrl": "https://nextlevelgents.com/wp-content/uploads/2021/08/person-shirtless-lat-pulldown.jpg"
+     },{
+        "name": "Bent-over row",
+        "description": "The Samsung Galaxy Book Pro is a high-end laptop with a thin and light design, long battery life, and fast performance.",
+        "categories": "back",
+        "imageUrl": "https://www.mensjournal.com/.image/t_share/MTk2MTM1OTM4MjcwMzA3ODQ1/9-barbell-bentover-rows.jpg"
+     },{
+        "name": "Pull-ups",
+        "description": "The pullup is one of the most effective exercises for strengthening the back muscles.",
+        "categories": "back",
+        "imageUrl": "https://img.mensxp.com/media/content/2019/Mar/chin-ups-vs-pull-ups-which-one-builds-a-wider-thicker-amp-stronger-back-1200x900-1551449750.jpg"
+     },{
+      "name": "Deadlifts",
+      "description": "The effects of deadlifts are evidence-based, with several case studies supporting its benefits on strength training.",
+      "categories": "back",
+      "imageUrl": "https://img.mensxp.com/media/content/2023/Feb/personal-trainer-focusing-his-deadlift-1_63f359d1a588f.jpeg"
+   },{
+      "name": "Back squat",
+      "description": "n addition to the lower body, the squat also targets your core muscles. These muscles include the rectus abdominis, obliques, transverse abdominis, and erector spinae.",
+      "categories": "legs",
+      "imageUrl": "https://www.mensjournal.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM2OTcxMjA3OTc2MDgx/squat.jpg"
+   },{
+      "name": "Front squat",
+      "description": "Like with back squats, front squats increase muscle mass in the lower body. The front squat muscles worked primarily include the quadriceps (quads), glutes, hips, and hamstrings.",
+      "categories": "legs",
+      "imageUrl": "https://www.mensjournal.com/.image/t_share/MTk2MTM2NTE1MTM3NDQ3MDU3/squats-1280.jpg"
+   },{
+      "name": "Leg press",
+      "description": "The leg press is the most important exercise in a workout. Regularly training with the leg press leads to strength and muscle gains in the largest muscles of the body",
+      "categories": "legs",
+      "imageUrl": "https://images.livemint.com/img/2022/09/29/1200x900/fitness_leg_press_1664439290507_1664439313934_1664439313934.jpg"
+   },{
+      "name": "Bulgarian split squat",
+      "description": "Bulgarian split squats are one of the best exercises to improve your squat. They will improve your balance, strength and coordination. ",
+      "categories": "legs",
+      "imageUrl": "https://www.transparentlabs.com/cdn/shop/articles/shutterstock_1012910314_1200x1200.jpg?v=1613806869"
+   }
+
+]
